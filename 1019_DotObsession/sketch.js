@@ -99,7 +99,7 @@ function setup() {
   }
   
   function draw() {
-    var lvl = themic.getLevel()*100.;
+    var lvl = themic.getLevel()*500.;
 
 
     if(whichshape==0) ellipse(random(width),random(height), lvl, lvl);
