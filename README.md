@@ -1,5 +1,5 @@
 # IXD-Studio
 
-[Dots Obsession](https://jljuli.github.io/IXD-Studio/1019_DotObsession/index.html)
+[Dots Obsession](https://openprocessing.org/sketch/1335773)
 
 [Weekly Notes](https://github.com/jljuli/IXD-Studio/wiki)
