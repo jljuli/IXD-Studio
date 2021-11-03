@@ -25,18 +25,18 @@ function setup() {
 
     //Background Sqaure as a "div"
     div = createDiv('');
-    div.position(25,25);
+    div.position(0,0);
     div.style("width","200px");
-    div.style("height","1000px");
+    div.style("height","100vh");
     div.style("z-index","0");
-    div.style("background","rgba(255,255,255,1)");
+    div.style("background","rgba(255,255,255,0.2)");
     div.style("box-shadow","0 0 50px rgba(0,0,0,0.2)");//semi transparent black shaodw
    
 
    
     //Input Box
     inp = createInput('Enter the Input!');
-    inp.position(50,100);
+    inp.position(25,50);
     inp.size(150,20);
     inp.style('font-family','Permanent Marker');
     inp.style('font-style','20px');
@@ -45,50 +45,50 @@ function setup() {
 
     // clear button
     clearbutton = createButton('CLEAR (C)');
-    clearbutton.position(50,170);
-    clearbutton.size(150,100);
+    clearbutton.position(25,110);
+    clearbutton.size(150,50);
     clearbutton.style('font-family','Permanent Marker');
-    clearbutton.style('font-size','20px');
+    clearbutton.style('font-size','15px');
     clearbutton.mousePressed(clearMe);
 
     // bgcolor button
     bgcolorbutton = createButton('Background Color (B)');
-    bgcolorbutton.position(50,320);
-    bgcolorbutton.size(150,100);
+    bgcolorbutton.position(25,190);
+    bgcolorbutton.size(150,50);
     bgcolorbutton.style('font-family','Permanent Marker');
-    bgcolorbutton.style('font-size','20px');
+    bgcolorbutton.style('font-size','15px');
     bgcolorbutton.mousePressed(bgcolorMe);
 
     //random button
     randombutton = createButton('RANDOM (R)');
-    randombutton.position(50,470);
-    randombutton.size(150,100);
+    randombutton.position(25,270);
+    randombutton.size(150,50);
     randombutton.style('font-family','Permanent Marker');
-    randombutton.style('font-size','20px');
+    randombutton.style('font-size','15px');
     randombutton.mousePressed(randomMe);
 
     //save button
     savebutton = createButton('SAVE (S)');
-    savebutton.position(50,620);
-    savebutton.size(150,100);
+    savebutton.position(25,350);
+    savebutton.size(150,50);
     savebutton.style('font-family','Permanent Marker');
-    savebutton.style('font-size','20px');
+    savebutton.style('font-size','15px');
     savebutton.mousePressed(saveMe);
 
     //sliders
     sr = createSlider(0,255,102); //min,max,default
-    sr.position(50,770);
+    sr.position(25,430);
     sr.style('width','150px');
     sg = createSlider(0,255,153); //min,max,default
-    sg.position(50,820);
+    sg.position(25,465);
     sg.style('width','150px');
     sb = createSlider(0,255,153); //min,max,default
-    sb.position(50,870);
+    sb.position(25,500);
     sb.style('width','150px');
 
     //checkbox
     checkbox = createCheckbox('Sqaures?',false);
-    checkbox.position(50,920);
+    checkbox.position(25,550);
     let box = checkbox.elt.getElementsByTagName('input')[0];
     box.style.width='30px';
     box.style.height='30px';
@@ -219,5 +219,4 @@ function setup() {
       }
     }
 */
-
 
