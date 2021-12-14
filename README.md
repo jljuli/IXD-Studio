@@ -1,6 +1,9 @@
 # IXD-Studio
 
-Max/MSP + p5.js
+[Voice Control Interface: Sound of NYC](https://jljuli.github.io/IXD-Studio/Main.html)
+
+
+Working samples (Max/MSP + p5.js ):
 
 [Dots Obsession](https://openprocessing.org/sketch/1335773) _1019 > Turn on your Microphone!
 
@@ -10,7 +13,5 @@ Max/MSP + p5.js
 
 [Speech Recognition 2](https://openprocessing.org/sketch/1352805)_1026
 
-
 [Weekly Notes](https://github.com/jljuli/IXD-Studio/wiki)
 
-[Voice Control Interface: Sound of NYC](https://jljuli.github.io/IXD-Studio/Main.html)
