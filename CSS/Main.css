@@ -1,0 +1,54 @@
+/*Background*/
+body { margin: 0; padding: 0; }
+#sound_map { position: absolute; top: 0; bottom: 0; width: 100%; z-index:0; }
+
+/*Text*/
+h1{
+    text-transform:uppercase;
+    margin:0;
+    top:0;
+    font-size:300px;
+    left:5%;
+    font-family:'Readex Pro';
+    font-weight: 500;
+    position:absolute;
+    /* transform: translate(-50%, -50%); */
+    color:white;
+    text-shadow: 20px 0 (0,0,0,0.8);
+}
+
+h2 a[href]{
+    margin:0;
+    font-size:100px;
+    font-family:'Readex Pro';
+    font-weight: 400;
+    position:absolute;
+    right:3%;
+    bottom:3%;
+    color:white;
+    text-decoration: none;
+}
+
+h2 a[href]:hover{
+    color:black;
+    font-weight: 500;
+    background:white;
+}
+
+h3 a[href]{
+    margin:0;
+    font-size:100px;
+    font-family:'Readex Pro';
+    font-weight: 400;
+    position:absolute;
+    left:3%;
+    bottom:3%;
+    color:white;
+    text-decoration: none;
+}
+
+h3 a[href]:hover{
+    color:black;
+    font-weight: 500;
+    background:white;
+}
