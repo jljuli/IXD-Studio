@@ -13,4 +13,4 @@ Max/MSP + p5.js
 
 [Weekly Notes](https://github.com/jljuli/IXD-Studio/wiki)
 
-[Voice Control Interface: Sound of NYC](https://github.com/jljuli/IXD-Studio/Main.html)
+[Voice Control Interface: Sound of NYC](https://jljuli.github.io/IXD-Studio/Main.html)
