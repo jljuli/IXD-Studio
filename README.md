@@ -6,7 +6,7 @@
 
 #### Working samples
 
-Max/MSP + p5.js +ml.js + Wekinator +reacTIVision
+Max/MSP + p5.js +ml.js + Wekinator +reacTIVision + Adobe Audition
 
 [Dots Obsession](https://openprocessing.org/sketch/1335773) _1019 > Turn on your Microphone!
 
