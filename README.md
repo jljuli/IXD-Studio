@@ -9,6 +9,10 @@ Max/MSP + p5.js +ml.js + Wekinator +reacTIVision
 
 [Dots Obsession](https://openprocessing.org/sketch/1335773) _1019 > Turn on your Microphone!
 
+
+
+Weekly Exercises and Notes
+
 [Random Noise](https://openprocessing.org/sketch/1335902)_1026
 
 [Speech Recognition 1 ](https://openprocessing.org/sketch/1355110)_1026
