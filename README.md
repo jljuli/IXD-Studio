@@ -21,7 +21,6 @@ Max/MSP + p5.js +ml.js + Wekinator +reacTIVision
 
 [Speech Recognition 2](https://openprocessing.org/sketch/1352805)_1026
 
-[PoseNet ML5.js Test](https://openprocessing.org/sketch/1409815)_1026
-
+[PoseNet ML5.js Test](https://openprocessing.org/sketch/1409815)_1109
 [Weekly Notes](https://github.com/jljuli/IXD-Studio/wiki)
 
