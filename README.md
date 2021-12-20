@@ -4,7 +4,7 @@
 
 
 
-Working samples
+### Working samples
 
 Max/MSP + p5.js +ml.js + Wekinator +reacTIVision
 
@@ -13,7 +13,7 @@ Max/MSP + p5.js +ml.js + Wekinator +reacTIVision
 
 
 
-Weekly Exercises and Notes
+### Weekly Exercises and Notes
 
 [Random Noise](https://openprocessing.org/sketch/1335902)_1026
 
