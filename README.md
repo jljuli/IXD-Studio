@@ -1,6 +1,8 @@
 # IXD-Studio
 
 [Voice Control Interface: Sound of NYC](https://jljuli.github.io/IXD-Studio/Main.html)
+[Page1](https://jljuli.github.io/IXD-Studio/Main.html)
+[Page2](https://jljuli.github.io/IXD-Studio/Map.html)
 
 
 
