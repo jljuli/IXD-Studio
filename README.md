@@ -8,6 +8,7 @@ This repository documents my work for the Interaction Design Studio course with 
 [Full Report](https://issuu.com/jl12315/docs/accessibility_on_data_navigation) on data navigation accessibility
 
 
+
 #### Weekly Exercises and Notes
 
 Tools: HTML/CSS/JavaScript (p5.js +ml5.js) + Max/MSP + Wekinator +reacTIVision + Adobe Audition
