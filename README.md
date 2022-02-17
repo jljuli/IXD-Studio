@@ -11,7 +11,7 @@ This repository documents my work for the Interaction Design Studio course with 
 
 #### Weekly Exercises and Notes
 
-HTML/CSS/JavaScript (p5.js +ml5.js) + Max/MSP + Wekinator +reacTIVision + Adobe Audition
+Tools: HTML/CSS/JavaScript (p5.js +ml5.js) + Max/MSP + Wekinator +reacTIVision + Adobe Audition
 
 [Dots Obsession](https://openprocessing.org/sketch/1335773) _1019 > Turn on your Microphone!
 
