@@ -5,8 +5,7 @@ This repository documents my work for the Interaction Design Studio course with 
 
 [Voice Control Interface: Sound of NYC](https://jljuli.github.io/IXD-Studio/Main.html) (In Progress) > Turn on your Microphone!
 
-[Full Report](https://issuu.com/jl12315/docs/accessibility_on_data_navigation)
-
+[Full Report](https://issuu.com/jl12315/docs/accessibility_on_data_navigation) on data navigation accessibility
 
 
 #### Weekly Exercises and Notes
