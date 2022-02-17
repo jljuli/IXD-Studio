@@ -1,6 +1,9 @@
 # IXD-Studio
 
-[Voice Control Interface: Sound of NYC](https://jljuli.github.io/IXD-Studio/Main.html)
+This repository documents my work for the Interaction Design Studio course with Professor Luke DuBois at NYU.
+
+
+[Voice Control Interface: Sound of NYC](https://jljuli.github.io/IXD-Studio/Main.html) (In Progress)
 
 [Full Report](https://issuu.com/jl12315/docs/accessibility_on_data_navigation)
 
